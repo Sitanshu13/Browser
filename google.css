@@ -8,6 +8,7 @@ body{
     height: 940px;
     background-image: url('https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405_960_720.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
     overflow: hidden;
 }
 
