@@ -1,13 +1,14 @@
 *{
     margin: 0;
     padding: 0;
-    outline: none;
 }
 
 body{
     width: 1920px;
     height: 940px;
-    background-image: url('https://media.istockphoto.com/photos/mesa-arch-sunrise-picture-id1176527951');
+    background-image: url('https://cdn.pixabay.com/photo/2018/08/23/07/35/thunderstorm-3625405_960_720.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
     overflow: hidden;
 }
 
@@ -190,5 +191,32 @@ img {
     position: absolute;
     left: 50%;
     top: 70%;
-    transform: translate(-40%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+h4{
+    color: white;
+    position: absolute;
+    top: 50%;
+    font-size: 1.5rem;
+    background: rgba(128,128,128, 1.5);
+    height: 40px;
+    width: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    font-weight: 100;
+    transform: translate(-230%, -50%);
+}
+
+#wiki{
+    width: 110px;
+    transform: translate(-190%, -50%);
+}
+
+h1{
+    color: white;
+    position: fixed;
+    left: 100px;
 }
