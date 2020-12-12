@@ -7,7 +7,7 @@
 body{
     width: 1920px;
     height: 940px;
-    background-image: linear-gradient(to top right,#f30a49 20%,#278ea5, #21e6c1);
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Kinyro7vSOVLigilpbNX0GDIe1CnBXJJ2A&usqp=CAU');
     background-size: cover;
     overflow: hidden;
 }
