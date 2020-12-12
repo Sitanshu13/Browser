@@ -6,7 +6,7 @@
 body{
     width: 1920px;
     height: 940px;
-    background-image: linear-gradient(to top right,#f30a49 20%,#278ea5, #21e6c1);
+    background-image: url('https://media.istockphoto.com/photos/mesa-arch-sunrise-picture-id1176527951');
     background-size: cover;
     overflow: hidden;
 }
